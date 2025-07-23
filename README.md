@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revengesuzuki&label=Profile%20views&color=00f583&style=flat" alt="revengesuzuki" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python , C# , C++**
 
 - 📄 Know about my experiences **I just started programming**
 
